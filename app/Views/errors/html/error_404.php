@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title><?= lang('Errors.pageNotFound') ?></title>
+    <title>Pagina no encontrada intruduce una Ruta correcta</title>
 
     <style>
         div.logo {
